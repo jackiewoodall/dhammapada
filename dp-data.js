@@ -1,6 +1,30 @@
 dammapada_episode = {
     "Pairs" : [1,20],
-    "Heedfulness" : [21,32]
+    "Heedfulness" : [21,32],
+    "The Mind" :  [33,43],
+    "Flowers" : [44,59],
+    "The Fool" : [60,75],
+    "The Wise Man" : [76,89],
+    "The Arahant" : [90,99],
+    "The Thousands" : [100,115],
+    "Evil" : [116,128],
+    "Violence" : [129,145],
+    "Old Age" : [146,156],
+    "The Self" : [157,166],
+    "The World" : [167,178],
+    "The Buddha" : [179,196],
+    "Happiness" : [197,208],
+    "Affection" : [209,220],
+    "Anger" : [221,234],
+    "Impurity" : [235,255],
+    "The Just" : [256,272],
+    "The Path" : [273,289],
+    "Miscellaneous" : [290,305],
+    "The State of Woe" : [306,319],
+    "The Elephant" : [320,333],
+    "Craving" : [334,359],
+    "The Monk" : [360,382],
+    "The Holy Man" : [383,423]
 };
 
 dammapada_verses = {
