@@ -1,0 +1,70 @@
+Model Data:
+
+object = { dammapada };
+
+dammapada = {   "size" : #verses,
+                "verse#" : versedata,
+                "verse#" : versedata,
+                "verse#" : versedata };
+
+versedata = {   "number" : number,
+                "section" : "passage",
+                "text": string };
+
+example:
+
+versedata21 = { "number" : 26,
+                "section" : "Heedfulness",
+                "text"   : "Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already."
+                };
+
+data links:
+
+    view-source:http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html
+    view-source:http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html
+
+Model to View (html):
+    - Get the desired text out of the json structure
+    - using HTML DOM replacement, insert that text into a wrapped html tag selected by "id"
+    - not using jquery would make this app more "lightweight"
+
+Getting URL parameters: http://stackoverflow.com/questions/979975/how-to-get-the-value-from-url-parameter
+
+<body>
+
+<h1 id="heading1">My First Page</h1>
+
+<p id="demo"></p>
+
+<script>
+
+document.getElementById("heading1").innerHTML = "Heedfulness";
+
+document.getElementById("demo").innerHTML = "Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already.";
+
+</script>
+
+</body>
+
+
+To Do:
+    o create the HTML shell
+    o create the javascript skeleton
+    o display dynamic content into HTML from JS
+    o "Random" quote button
+    o "Next" quote button
+    o "Prev" quote button
+    o import full text data
+    o create URL shortcut to quote
+    o URL param parsing to a quote
+    o "Like" button
+    o "Share" button
+    o "Comment" section
+    o goo.gl shortcut urls to verses
+    o google analytics
+    o wix launch
+    o github.io launch
+    o appengine launch
+    o PhoneGap:
+        o iOS app store
+        o Android app
