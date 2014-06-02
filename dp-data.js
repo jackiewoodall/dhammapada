@@ -67,7 +67,7 @@ dammapada_verses = {
     
     18:	'Here he is happy, hereafter he is happy; one who performs meritorious deeds is happy in both existences. Happily he exclaims: "I have done meritorious deeds." He is happier still when he is reborn in a higher world (suggati).',
     
-    19:	'Though he recites much the Sacred Texts (Tipitaka), but is negligent and does not practise according to the Dhamma, like a cowherd who counts the cattle of others, he has no share in the benefits of the life of a bhikkhu (i.e., Magga-phala).',
+    19:	'Though he recites much the Sacred Texts (Tipitaka), but is negligent and does not practice according to the Dhamma, like a cowherd who counts the cattle of others, he has no share in the benefits of the life of a bhikkhu (i.e., Magga-phala).',
     
     20:	'Though he recites only a little of the Sacred Texts (Tipitaka), but practises according to the Dhamma, eradicating passion, ill will and ignorance, clearly comprehending the Dhamma, his mind freed from moral defilements and no longer clinging to this world or to the next, he shares the benefits of the life of a bhikkhu (i.e., Magga-phala).',
     
@@ -137,9 +137,9 @@ dammapada_verses = {
     
     50:	'One should not consider the faults of others, nor their doing or not doing good or bad deeds. One should only consider whether one has done or not done good or bad deeds.',
     
-    51:	'Just as a beautiful flower, lacking in scent, cannot give the wearer the benefit of its scent, so also, the well-preached words of the Buddha cannot benefit one who does not practise the Dhamma.',
+    51:	'Just as a beautiful flower, lacking in scent, cannot give the wearer the benefit of its scent, so also, the well-preached words of the Buddha cannot benefit one who does not practice the Dhamma.',
     
-    52:	'Just as a flower, beautiful as well as fragrant, will give the wearer the benefit of its scent, so also, the well-preached words of the Buddha will benefit one who practises the Dhamma.',
+    52:	'Just as a flower, beautiful as well as fragrant, will give the wearer the benefit of its scent, so also, the well-preached words of the Buddha will benefit one who practices the Dhamma.',
     
     53:	'As from a collection of flowers many a garland can be made by an expert florist, so also, much good can be done with wealth, out of faith and generosity, by one subject to birth and death.',
     
@@ -188,5 +188,62 @@ dammapada_verses = {
     74: '"Let both laymen and bhikkhus think that things are done because of me; let them obey me in all matters, great and small." Such being the thoughts of the fool, his greed and his pride grow.',
     
     75: 'Indeed, the path that leads to worldly gain is one, and the Path that leads to Nibbana is another. Fully comprehending this, the bhikkhu, the disciple of the Buddha, should not take delight in worldly gain and honour, but devote himself to solitude, detachment and the realization of Nibbana.',
+
+    // The Wise Man
+    
+    76: 'One should follow a man of wisdom who rebukes one for one\'s faults, as one would follow a guide to some buried treasure. To one who follows such a wise man, it will be an advantage and not a disadvantage.',
+    
+    77: 'The man of wisdom should admonish others; he should give advice and should prevent others from doing wrong; such a man is held dear by the good; he is disliked only by the bad.',
+    
+    78: 'One should not associate with bad friends nor with the vile. One should associate with good friends, and with those who are noble.',
+    
+    79: 'He who drinks in the Dhamma lives happily with a serene mind; the wise man always takes delight in the Dhamma expounded by the Noble Ones.',
+    
+    80: 'Farmers channel the water; fletchers straighten the arrows; carpenters work the timber; the wise tame themselves.',
+    
+    81: 'As a mountain of a rock is unshaken by wind, so also, the wise are unperturbed by blame or by praise.',
+    
+    82: 'Like a lake which is deep, clear and calm, the wise after listening to the Teaching (Dhamma) become serene.',
+    
+    83: 'Indeed, the virtuous give up all; the virtuous do not talk with sensual desire; when faced with joy or sorrow, the wise do not show elation or depression.',
+    
+    84: 'For his own sake or for the sake of others he does no evil; nor does he wish for sons and daughters or for wealth or for a kingdom by doing evil; nor does he wish for success by unfair means: such a one is indeed virtuous, wise and just.',
+    
+    85:	'Few among men reach the other shore (Nibbana); all the others only run up and down on this shore.',
+    
+    86: 'But those who practice according to the well-expounded Dhamma will reach the other shore (Nibbana), having passed the realm of Death, very difficult as it is to cross.',
+    
+    87: 'The man of wisdom, leaving the home of craving and having Nibbana as his goal, should give up dark, evil ways and cultivate pure, good ones. He should seek great delight in solitude, detachment and Nibbana, which an ordinary man finds so difficult to enjoy. He should also give up sensual pleasures, and clinging to nothing, should cleanse himself of all impurities of the mind.',
+    
+    88: 'The man of wisdom, leaving the home of craving and having Nibbana as his goal, should give up dark, evil ways and cultivate pure, good ones. He should seek great delight in solitude, detachment and Nibbana, which an ordinary man finds so difficult to enjoy. He should also give up sensual pleasures, and clinging to nothing, should cleanse himself of all impurities of the mind.',
+    
+    89: 'Those, with mind well-developed in the Seven Factors of Enlightenment, and who have rid themselves of all craving, rejoice in their abandonment of attachment. Such men, with all moral intoxicants eradicated, and powerful with the light of Arahatta Magganana have realized Nibbana in this world.',
+    
+    // The Arahant
+    
+    90: 'For him whose journey is ended, who has destroyed all fetters, there is no more distress.',
+    
+    91: 'The mindful strive diligently; they take no delight in the life of sensual pleasures; like swans that forsake the muddy pool, they abandon all all craving.',
+    
+    92: 'Arahats do not hoard anything; when taking food they reflect well over it. They have as their object liberation from existence, i.e., Nibbana which is Void and Signless. Their destination, like the course of birds in the air, cannot be traced.',
+    
+    93: 'The arahat is free from moral intoxicants; he is not attached to food. He has as his object Liberation from existence, i.e., Nibbana which is Void and Signless. His path, like that of birds in the air, cannot be traced.',
+    
+    94: 'The arahat whose sense-faculties are calm like horses well-tamed by the charioteer, who is free from pride and moral intoxicants - such an arahat is held dear even by the devas.',
+    
+    95: 'Like the Earth, the arahat is patient and is not provoked to respond in anger; like the doorpost he is firm; he is unperturbed by the ups and downs of life; he is serene and pure like a lake free from mud. For such an arahat there will be no more rebirth.',
+    
+    96: 'An arahat is calm in his mind, calm in his speech, and also in his deed; truly knowing the Dhamma, such an arahat is free from moral defilements and is unperturbed by the ups and downs of life.',
+    
+    97: 'He who is not credulous, who has realized the Unconditioned, who has cut off the links of the round of rebirths, who has destroyed all consequences of good and bad deeds, who has discarded all craving, is indeed the noblest of all men (i.e., as arahat).',
+    
+    98: 'In a village or in a forest, in a valley or on a hill, wherever the arahats dwell, that place is delightful.',
+
+    99: 'Forests are delightful, but the worldlings find no delight in them; only those who are free from passion will find delight in them, for they do not seek sensual pleasures.',
+    
+    // The Thousands
+    
+    100: 'Better than a thousand words that are senseless and unconnected with the realization of Nibbana, is a single word of sense, if on hearing it one is calmed.',
+    
 
 };
