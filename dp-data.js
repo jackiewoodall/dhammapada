@@ -363,4 +363,26 @@ dammapada_verses = {
 
     156: 'They, who in youth have neither led the Life of Purity, nor have acquired wealth, lie helplessly like arrows that have lost momentum, moaning and sighing after the past.',
 
+    // The Self
+    
+    157: 'If one knows that one is dear to oneself, one should protect oneself well. During any of the three watches of life the wise man should be on guard against evil',
+
+    158: 'One should first establish oneself in what is proper; then only one should teach others. A wise man should not incur reproach.',
+
+    159: 'One should do what one teaches others to do; only with oneself thoroughly tamed should one teach. To tame oneself is, indeed, difficult.',
+    
+    160: 'One indeed is one\'s own refuge; how can others be a refuge to one? With oneself thoroughly tamed, one can attain a refuge, which is so difficult to attain.',
+
+    161: 'The evil done by oneself, arising in oneself, and caused by oneself, destroys the foolish one, just as a diamond grinds the rock from which it is formed.',
+
+    162: 'As the creeper strangles the sal tree, so also, a really immoral person overwhelmed by Craving does to himself just what his enemy wishes him to do.',
+
+    163: 'It is easy to do things that are bad and unbeneficial to oneself, but it is, indeed, most difficult to do things that are beneficial and good.',
+
+    164: 'The foolish man who, on account of his wrong views, scorns the teaching of the homage-worthy Noble Ones who live according to the Dhamma, is like the bamboo which bears fruit for its own destruction.',
+
+    165: 'By oneself indeed is evil done and by oneself is one defiled; by oneself is evil not done and by oneself is one purified, purity and impurity depend entirely on oneself; no one can purify another.',
+
+    166: 'For the sake of another\'s benefit, however great it may be, do not neglect one\'s own moral benefit. Clearly perceiving one\'s own benefit, one should make every effort to attain it.',
+
 };

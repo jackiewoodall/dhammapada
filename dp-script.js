@@ -7,7 +7,31 @@ dpScript = {
         document.getElementById("btn-next").onclick = this.Next;
         document.getElementById("btn-previous").onclick = this.Previous;
         
-        this.Random();
+        dpScript.OnLoad();
+    },
+    
+    OnLoad : function() {
+        // populate the episode selection drop down
+        var options = '';
+        for (var episode in dammapada_episode) {
+            options += '<option value="' + episode + '">' + episode + '</option>';
+        }
+        
+        if(options.length > 0) {
+            var element = document.getElementById("select-episode");
+            element.innerHTML = options;
+            element.onchange = dpScript.EpisodeSelectionChange;
+        }
+        
+        // go to a random verse
+        dpScript.Random();
+    },
+    
+    EpisodeSelectionChange : function() {
+        var element = document.getElementById("select-episode");
+        var episode = element.value;
+        var verse = dammapada_episode[episode][0];
+        dpScript.SetVerse(verse);
     },
     
     Next : function() {
