@@ -303,4 +303,64 @@ dammapada_verses = {
 
     128: 'Not in the sky, nor in the middle of the ocean, nor in the cave of a mountain, nor anywhere else, is there a place, where one cannot be oppressed by Death.',
 
+    // Violence
+    
+    129: 'All are afraid of the stick, all fear death. Putting oneself in another\'s place, one should not beat or kill others.',
+
+    130: 'All are afraid of the stick, all hold their lives dear. Putting oneself in another\'s place, one should not beat or kill others.',
+
+    131: 'He who seeks his own happiness by oppressing others who also desire to have happiness will not find happiness in his next existence.',
+
+    132: 'He who seeks his own happiness by not oppressing others who also desire to have happiness will find happiness in his next existence.',
+
+    133: 'Do not speak harshly to anyone; those who are thus spoken to will retort. Malicious talk is indeed the cause of trouble and retribution will come to you.',
+
+    134: 'If you can keep yourself calm and quiet like a broken gong which is no longer resonant, you are sure to realize Nibbana; there will be no harshness in you.',
+
+    135: 'As with a stick the cowherd drives his cattle to the pasture, so also, Aging and Death drive the life of beings.',
+
+    136: 'A fool while doing evil deeds dies not know them as being evil; but that fool suffers for his evil deeds like one who is burnt by fire.',
+
+    137: 'He who does harm with weapons to those who are harmless and should not be harmed will soon come to any of these ten evil consequences.',
+
+    138: 'He will be subject to severe pain, or impoverishment, or injury to the body, or serious illness, or lunacy, or misfortunes following the wrath of the king, or wrongful and serious accusations, or loss of relatives, or destruction of wealth or the burning down of his houses by fire or by lightning. After the dissolution of his body, the fool will be reborn in the plane of continuous suffering.',
+
+    139: 'He will be subject to severe pain, or impoverishment, or injury to the body, or serious illness, or lunacy, or misfortunes following the wrath of the king, or wrongful and serious accusations, or loss of relatives, or destruction of wealth or the burning down of his houses by fire or by lightning. After the dissolution of his body, the fool will be reborn in the plane of continuous suffering.',
+
+    140: 'He will be subject to severe pain, or impoverishment, or injury to the body, or serious illness, or lunacy, or misfortunes following the wrath of the king, or wrongful and serious accusations, or loss of relatives, or destruction of wealth or the burning down of his houses by fire or by lightning. After the dissolution of his body, the fool will be reborn in the plane of continuous suffering.',
+
+    141: 'Not going naked, nor having matted hair, nor smearing oneself with mud, nor fasting, nor sleeping on bare ground, nor covering oneself with dust, nor striving by squatting can purify a being, who has not yet overcome doubt.',
+
+    142: 'Though he is gaily decked, if he is calm, free from moral defilements, and has his senses controlled, if he is established in the Path of Insight, if he is pure and has laid aside enmity towards all beings, he indeed is a brahmana, a samana, and a bhikkhu.',
+
+    143: 'Rare in this world is the kind of person who out of a sense of shame restrains from doing evil and keeps himself awake like a good horse that gives no cause to be whipped.',
+
+    144: 'Like a good horse stirred at a touch of the whip, be diligent and get alarmed by endless round of rebirths. By faith, morality, effort, concentration, and discernment of the Dhamma, be endowed with knowledge and practice of morality and with mindfulness, leave this immeasurable suffering behind.',
+    
+    145: 'Farmers channel the water; fletchers straighten the arrows; carpenters work the timer; the wise tame themselves.',
+    
+    // Old Age
+    
+    146: 'Why is there laughter? Why is there joy although the world is always burning? Shrouded in darkness, why not seek the light?',
+
+    147: 'Look at this dressed up body, a mass of sores, supported by bones, sickly, a subject of many thoughts of sensual desire. Indeed, that body is neither permanent nor enduring.',
+
+    148: 'This body is worn out with age, it is the seat of sickness, it is subject to decay. This putrid body disintegrates; life, indeed, ends in death.',
+
+    149: 'Like gourds thrown away in autumn are these dove-grey bones; what pleasure is there in seeing them?',
+
+    150: 'This body is built up with bones which are covered with flesh and blood; within this dwell decay and death, pride and detraction.',
+
+    151: 'The much ornamented royal carriages do wear out, the body also grows old, but the Dhamma of the Virtuous does not decay. Thus, indeed, say the Virtuous among themselves.',
+
+    152: 'This man of little learning grows old like an ox; only his flesh grows but not his wisdom.',
+
+    153: 'I, who have been seeking the builder of this house (body), failing to attain Enlightenment which would enable me to find him, have wandered through innumerable births in samsara, To be born again and again is, indeed, dukkha!',
+
+    154: 'Oh housebuilder! You are seen, you shall build no house for me again. All your rafters are broken, your roof-tree is destroyed, My mind has reached the Unconditioned; the end of craving has been attained.',
+
+    155: 'They, who in youth have neither led the Life of Purity, nor have acquired wealth, waste away in dejection like decrepit herons on a drying pond deplete of fish.',
+
+    156: 'They, who in youth have neither led the Life of Purity, nor have acquired wealth, lie helplessly like arrows that have lost momentum, moaning and sighing after the past.',
+
 };
