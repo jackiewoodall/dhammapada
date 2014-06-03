@@ -14,7 +14,14 @@ dpScript = {
         // populate the episode selection drop down
         var options = '';
         for (var episode in dammapada_episode) {
-            options += '<option value="' + episode + '">' + episode + '</option>';
+            var lo = dammapada_episode[episode][0];
+            var hi = dammapada_episode[episode][1];
+            
+            if(dammapada_verses.hasOwnProperty(lo)) {
+                options += '<option value="' + episode + '">' + 
+                episode + ' (' + lo + ' - ' + hi + ')' +
+                '</option>';
+            }
         }
         
         if(options.length > 0) {

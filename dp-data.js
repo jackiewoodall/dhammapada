@@ -385,4 +385,30 @@ dammapada_verses = {
 
     166: 'For the sake of another\'s benefit, however great it may be, do not neglect one\'s own moral benefit. Clearly perceiving one\'s own benefit, one should make every effort to attain it.',
 
+    // The World
+    
+    167: 'Do not follow ignoble ways, do not live in negligence, do not embrace wrong views, do not be the one to prolong samsara.',
+
+    168: 'Do not neglect the duty of going on alms-round; observe improper practice. One who observes proper practice lives happily both in this world and in the next.',
+
+    169: 'Observe proper practice; do not observe improper practice. One who observes proper practice lives happily both in this world and in the next.',
+
+    170: 'If a man looks at the world, in the same way as one looks at a bubble or a mirage, the King of Death will not find him.',
+
+    171: 'Come, look at this world, which is like an ornamented royal carriage. Fools flounder in this world of material, but the wise are not attached to it.',
+
+    172: 'He who has been formerly unmindful, but is mindful later on, lights up the world (with the light of Magga Insight) as does the moon freed from clouds.',
+
+    173: 'He who overwhelms with good the evil that he has done lights up this world, as does the moon freed from clouds.',
+
+    174: 'Blind are the people of this world; only a few in this world see clearly. Just as only a few birds escape from the net, so also, only a few get to the world of the devas and Nibbana.',
+
+    175: 'Swans travel in the sky; those with supernormal powers travel through space; the wise, having conquered Mara together with his army, go out of this world.',
+
+    176: 'For one who transgresses the Truth, and is given to lying, and who is unconcerned with the life hereafter, there is no evil that he dare not do.',
+
+    177: 'Indeed, misers do not go to the abode of the devas; fools do not praise charity; but the wise rejoice in charity and so gain happiness in the life hereafter.',
+
+    178: 'Far better than sovereignty over the earth, or far better than going to the abodes of the devas, or far better than ruling supreme over the entire universe, is the attainment of Sotapatti Fruition.',
+
 };
