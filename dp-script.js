@@ -28,7 +28,9 @@ dpScript = {
     Random : function() {
         var verses = Object.keys(dammapada_verses).length;
         
-        var num = 1 + Math.floor(Math.random() * verses);
+        do {
+            var num = 1 + Math.floor(Math.random() * verses);
+        } while(num == dpScript._currentVerse);
         
         if( num > 0 ) {
             dpScript.SetVerse(num);

@@ -223,7 +223,7 @@ dammapada_verses = {
     
     90: 'For him whose journey is ended, who has destroyed all fetters, there is no more distress.',
     
-    91: 'The mindful strive diligently; they take no delight in the life of sensual pleasures; like swans that forsake the muddy pool, they abandon all all craving.',
+    91: 'The mindful strive diligently; they take no delight in the life of sensual pleasures; like swans that forsake the muddy pool, they abandon all craving.',
     
     92: 'Arahats do not hoard anything; when taking food they reflect well over it. They have as their object liberation from existence, i.e., Nibbana which is Void and Signless. Their destination, like the course of birds in the air, cannot be traced.',
     
@@ -245,5 +245,62 @@ dammapada_verses = {
     
     100: 'Better than a thousand words that are senseless and unconnected with the realization of Nibbana, is a single word of sense, if on hearing it one is calmed.',
     
+    101: 'Better than a thousand verses that are senseless and unconnected with the realization of Nibbana, is a single verse, if on hearing it one is calmed.',
+    
+    102: 'Better than the recitation of a hundred verses that are senseless and unconnected with the realization of Nibbana, is the recitation of a single word of the teaching, if on hearing it one is calmed.',
+
+    103: 'A man may conquer a million men in battle but one who conquers himself is, indeed, the greatest of conquerors.',
+    
+    104: 'It is better indeed, to conquer oneself than to conquer others. Neither a deva, nor a gandhabba, nor Mara together with Brahma can turn into defeat the victory of the man who controls himself.',
+    
+    105: 'It is better indeed, to conquer oneself than to conquer others. Neither a deva, nor a gandhabba, nor Mara together with Brahma can turn into defeat the victory of the man who controls himself.',
+
+    106: 'Month after month for a hundred years, one may make offerings to ordinary people to the value of a thousand coins; yet if, only for a moment, one pays homage to a bhikkhu who has practised Insight Development, this homage is, indeed, better than a hundred years of making offerings to ordinary people.',
+
+    107: 'For a hundred years, a man may tend the sacred fire in the forest; yet if, only for a moment, one pays homage to a bhikkhu who has practised Insight Development, this homage is, indeed, better than a hundred years of making sacrifices.',
+
+    108: 'In this world, one may make sacrificial offerings, great and small, all the year round, in order to gain merit; all these offerings are not worth a quarter of the merit gained by worshipping the Noble Ones who walk the right path.',
+
+    109: 'For one who always respects and honours those who are older and more virtuous, four benefits: longevity, beauty, happiness and strength, will increase.',
+
+    110: 'Better than a hundred years in the life of an immoral person who has no control over his senses, is a day in the life of a virtuous person who cultivates Tranquillity and Insight Development Practice.',
+
+    111: 'Better than a hundred years in the life of an ignorant person who has no control over his senses, is a day in the life of a wise man who cultivates Tranquillity and Insight Development Practice.',
+
+    112: 'Better than a hundred years in the life of a person who is idle and inactive, is a day in the life of one who makes a zealous and strenuous effort in Tranquillity and Insight Development Practice.',
+
+    113: 'Better than a hundred years in the life of a person who does not perceive the arising and the dissolving of the five aggregates, is a day in the life of one who perceives the arising and the dissolving of the five aggregates.',
+
+    114: 'Better than a hundred years in the life of a person who does not perceive the Deathless (Nibbana), is a day in the life of one who perceives the Deathless (Nibbana).',
+
+    115: 'Better than a hundred years in the life of a person who does not comprehend the Noble Dhamma, is a day in the life of one who comprehends the Noble Dhamma.',
+
+    // Evil
+    
+    116: 'One should make haste in doing good deeds; one should restrain one\'s mind from evil; for the mind of one who is slow in doing good tends to take delight in doing evil.',
+
+    117: 'If a man does evil, he should not do it again and again; he should not take delight in it; the accumulation of evil leads to suffering.',
+
+    118: 'If a man does what is good, he should do it again and again; he should take delight in it; the accumulation of merit leads to happiness.',
+
+    119: 'Even an evil person may still find happiness so long as his evil deed does not bear fruit; but when his evil deed does bear fruit he will meet with evil consequences.',
+
+    120: 'Even a good person may still meet with suffering so long as his good deed does not bear fruit; but when it does bear fruit he will enjoy the benefits of his good deed.',
+
+    121: 'One should not think lightly of doing evil, imagining "A little will not affect me"; just as a water-jar is filled up by falling drops of rain, so also, the fool is filled up with evil, by accumulating it little by little.',
+
+    122: 'One should not think lightly of doing good, imagining "A little will not affect me"; just as a water-jar is filled up by falling drops of rain, so also the wise one is filled up with merit, by accumulating it little by little.',
+
+    123: 'Just as a wealthy merchant with few attendants avoids a dangerous road, just as one who desires to go on living avoids poison, so also, one should avoid evil.',
+
+    124: 'If there is no wound on the hand, one may handle poison; poison does not affect one who has no wound; there can be no evil for one who has no evil intention.',
+
+    125: 'If one wrongs a person who should not be wronged, one who is pure and is free from moral defilements, the evil falls back upon that fool, like fine dust thrown against the wind.',
+
+    126: 'Some are reborn as human beings, the wicked are reborn in a place of continuous torment, the righteous go to the deva world, and those who are free from moral intoxicants realize Nibbana.',
+
+    127: 'Not in the sky, nor in the middle of the ocean, nor in the cave of a mountain, nor anywhere else, is there a place, where one may escape from the consequences of an evil deed.',
+
+    128: 'Not in the sky, nor in the middle of the ocean, nor in the cave of a mountain, nor anywhere else, is there a place, where one cannot be oppressed by Death.',
 
 };
