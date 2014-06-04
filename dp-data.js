@@ -411,4 +411,68 @@ dammapada_verses = {
 
     178: 'Far better than sovereignty over the earth, or far better than going to the abodes of the devas, or far better than ruling supreme over the entire universe, is the attainment of Sotapatti Fruition.',
 
+    // The Buddha
+    
+    179: 'The Buddha, whose conquest of moral defilements is complete, in whom there cannot arise any further defilements in this world, - that Buddha of infinite range of wisdom, who is trackless, by what track will you lead him?',
+
+    180: 'The Buddha, in whom there is no craving, which like a net would bring him back to any existence, that Buddha of infinite range of wisdom, who is trackless, by what track will you lead him?',
+
+    181: 'The wise who practise jhana concentration and Insight Meditation take delight in the peace of liberation from sensual pleasures and moral defilements. Such wise and mindful ones, who truly comprehend the Four Noble Truths, are held dear also by the devas.',
+
+    182: 'Hard to gain is birth as man; hard is the life of mortals; hard to get is the opportunity of hearing the Teaching of the Buddhas; hard it is for a Buddha to appear.',
+
+    183: 'Not to do evil, to cultivate merit, to purify one\'s mind - this is the Teaching of the Buddhas.',
+
+    184: 'The best moral practices is patience and forbearance; "Nibbana is Supreme", said the Buddhas. A bhikkhu does not harm others; one who harms others is not a bhikkhu.',
+
+    185: 'Not to revile, not to do any harm, to practise restraint according to the Fundamental Instructions for the bhikkhus, to be moderate in taking food, to dwell in a secluded place, to devote oneself to higher concentration - this is the Teaching of the Buddhas.',
+
+    186: 'Not by a shower of coins can sensual desires be satiated; sensual desires give little pleasure and are fraught with evil consequences. Knowing this, the wise man, who is the disciple of the Buddha, does not find delight even in the pleasures of the devas, but rejoices in the cessation of craving.',
+    
+    187: 'Not by a shower of coins can sensual desires be satiated; sensual desires give little pleasure and are fraught with evil consequences. Knowing this, the wise man, who is the disciple of the Buddha, does not find delight even in the pleasures of the devas, but rejoices in the cessation of craving.',
+
+    188: 'When threatened with danger, men go to many a refuge, - to mountains and forests, to parks and gardens, and to sacred trees.',
+
+    189: 'But such a refuge is not a safe refuge, not the best refuge. One is not liberated from all evil consequences of existence for having come to such a refuge.',
+
+    190: 'One who takes refuge in the Buddha, the Dhamma and the Sangha, sees with Insight the Four Noble Truths: Suffering, the Cause of Suffering, the Cessation of Suffering, and the Noble Eight Fold Path which leads to the Cessation of Suffering.',
+
+    191: 'One who takes refuge in the Buddha, the Dhamma and the Sangha, sees with Insight the Four Noble Truths: Suffering, the Cause of Suffering, the Cessation of Suffering, and the Noble Eight Fold Path which leads to the Cessation of Suffering.',
+
+    192: 'This indeed, is the safe refuge; this is the best refuge. Having come to this refuge, one is liberated from all suffering.',
+
+    193: 'It is hard to find the noblest of men; he is not born everywhere nor in every clan. To whatever clan such a wise man is born, that clan prospers.',
+
+    194: 'Happy is the arising of a Buddha; happy is the exposition of the Truth; happy is the harmony amongst the Community; happy is the practice of those in harmony.',
+
+    195: 'He pays homage to those who are worthy of veneration, whether they are the Buddhas or their disciples who have overcome obstacles and have rid themselves of sorrow and lamentation.',
+
+    196: 'The merit gained by such a person who pays homage to those who have been freed from moral defilements and have nothing to fear, cannot be measured by anyone, as this much or that much.',
+
+    // Happiness
+    
+    197: 'Indeed we live very happily, not hating anyone among those who hate; among men who hate we live without hating anyone.',
+
+    198: 'Indeed we live very happily, in good health among the ailing; among men who are ailing we live in good health.',
+
+    199: 'Indeed we live very happily, not striving for sensual pleasures among those who strive for them; among those who strive for them we live without striving.',
+
+    200: 'Indeed we live very happily, without any anxiety (i.e., without greed, ill will and ignorance); like the Abhassara brahmas we shall live on delightful satisfaction as our food.',
+
+    201: 'Conquest begets enmity; the conquered live in misery; the peaceful live happily having renounced conquest and defeat.',
+
+    202: 'There is no fire like passion; there is no evil like hatred; there is no ill like the five aggregates; there is no bliss that surpasses the Perfect Peace.',
+
+    203: 'Hunger is the greatest ailment, the aggregates are the greatest ill. The wise, knowing them as they really are, realize Nibbana, the greatest bliss.',
+
+    204: 'Health is the greatest gift, contentment is the greatest wealth, a trusted friend is the best relative, Nibbana is the greatest bliss.',
+
+    205: 'Having had the taste of solitude and the taste of Perfect Peace of Nibbana, one who drinks in the joy of the essence of the Dhamma is free from fear and evil.',
+
+    206: 'It is good to see the Noble Ones; to live with them is always a pleasure; not seeing fools is also always a pleasure.',
+
+    207: 'He who walks in the company of fools has to grieve for a long time. Association with fools is ever painful, as living with an enemy; association with the wise is a pleasure, as living with relatives.',
+
+    208: 'Therefore, one should follow a resolute, intelligent, learned, persevering and dutiful Noble One; follow such a virtuous and wise man, as the moon follows the path of the stars.',
+
 };
