@@ -474,5 +474,211 @@ dammapada_verses = {
     207: 'He who walks in the company of fools has to grieve for a long time. Association with fools is ever painful, as living with an enemy; association with the wise is a pleasure, as living with relatives.',
 
     208: 'Therefore, one should follow a resolute, intelligent, learned, persevering and dutiful Noble One; follow such a virtuous and wise man, as the moon follows the path of the stars.',
+    
+    // Affection
+    
+    209: 'He who does what should not be done and fails to do what should be done, who forsakes the noble aim of life (i.e., Morality, Concentration and Insight) and grasps at sensual pleasure, covets the benefits gained by those who exert themselves in meditation.',
+
+    210: 'Do not cling to those who are dear, and never with those who are not dear to you; not seeing the dear ones is painful, and seeing those who are not dear to you is also painful.',
+
+    211: 'Therefore, one should not cling to anything dear; separation from the loved ones is painful; there are no fetters for those who do not love or hate.',
+
+    212: 'Attachment begets sorrow, attachment begets fear. For him who is free from attachments there is no sorrow; how can there be fear for him?',
+
+    213: 'Endearment begets sorrow, endearment begets fear. For him who is free from endearment there is no sorrow; how can there be fear for him?',
+
+    214: 'Attachment to sensual pleasures begets sorrow, attachment begets fear. For him who is free from attachment there is no sorrow; how can there be fear for him?',
+
+    215: 'Lust begets sorrow, lust begets fear. For him who is free from lust there is no sorrow; how can there be fear for him?',
+
+    216: 'Craving begets sorrow, craving begets fear. For him who is free from craving there is no sorrow; how can there be fear for him?',
+
+    217: 'He who is endowed with Virtue and Insight, who is established in the Dhamma, who has realized the Truth and performs his own duties, is loved by all men.',
+
+    218: 'He who has developed a desire for the Ineffable (i.e., Nibbana), whose mind reaches the same and is no longer attached to the sensual world, is called one who is bound upstream.',
+
+    219: 'A man who has long been absent and has returned home safely from a distance is welcomed with joy by relatives, friends and well-wishers on his return.',
+
+    220: 'In the same way, his good deeds will receive him who has done good when he goes from this world to the other, as relatives receive a dear one on his return.',
+
+    // Anger
+    
+    221: 'Give up anger, abandon conceit, overcome all fetters. Ills of life do not befall one who does not cling to mind and body and is free from moral defilements.',
+
+    222: 'He who restrains his rising anger as a skilful charioteer checks a speeding chariot, - him I call a true charioteer; other charioteers only hold the reins.',
+
+    223: 'Conquer the angry one by not getting angry (i.e., by loving-kindness); conquer the wicked by goodness; conquer the stingy by generosity, and the liar by speaking the truth.',
+
+    224: 'One should speak the truth, one should not yield to anger, one should give when asked even if it is only a little. By means of these three, one may go to the world of the devas.',
+
+    225: 'The arahats, who do not harm others and are always restrained in their actions, go to the deathless Nibbana, where there is no sorrow.',
+
+    226: 'In those who are ever vigilant, who by day and by night train themselves in the three sikkhas (i.e., virtue, concentration and wisdom), and who have their mind directed towards Nibbana, moral intoxicants become extinct.',
+
+    227: 'It is not new, O Atula! It has always been done from ancient times. They blame one who is silent, they blame one who speaks much, and they blame one who speaks little. There is no one in this world who is not blamed.',
+
+    228: 'There never has been, there never will be, nor is there now, anyone who is always blamed or always praised.',
+
+    229: 'If the wise praise him day after day, knowing him to be truly faultless, wise and endowed with knowledge and virtue, who would blame him, who is like a coin of pure gold? The devas praise him; he is praised even by the great Brahma.',
+
+    230: 'If the wise praise him day after day, knowing him to be truly faultless, wise and endowed with knowledge and virtue, who would blame him, who is like a coin of pure gold? The devas praise him; he is praised even by the great Brahma.',
+    
+    231: 'Guard against evil deeds, control your body. Giving up evil deeds, cultivate good deeds.',
+
+    232: 'Guard against evil speech, control your speech. Giving up evil speech, cultivate good speech.',
+
+    233: 'Guard against evil thoughts, control your mind. Giving up evil thoughts, cultivate good thoughts.',
+
+    234: 'The wise are controlled in deed, they are controlled in speech, they are controlled in thought. Indeed, they are perfectly self-controlled.',
+
+    // Impurity
+    
+    235: 'You are now like a withered leaf; the messengers of death are near you; you are about to set out on a long journey; yet you have no provisions for the journey.',
+
+    236: 'Make a firm support for yourself; hasten to strive hard; and be wise. Having removed impurities and being free from moral defilements, you shall enter the abodes of the sublime realms.',
+
+    237: 'Now you are of advanced age, you are going to the presence of the King of Death and you cannot stop on the way; yet you have no provisions for the journey.',
+
+    238: 'Make a firm support for yourself; hasten to strive hard; and be wise. Having removed impurities and being free from moral defilements, you will no longer be subject to rebirth and decay.',
+
+    239: 'By degrees, little by little, from moment to moment, a wise man removes his own impurities, as a smith removes the dross of silver or gold.',
+
+    240: 'Just as rust is formed from iron, and corrodes the iron from which it is formed, so also, his own deeds lead the transgressor to a lower plane of existence.',
+
+    241: 'Non-recitation is the taint of learning; non-maintenance is the taint of houses; indolence is the taint of beauty; unmindfulness is the taint of one who keeps watch.',
+
+    242: 'Sexual misconduct is the taint of a woman; stinginess is the taint of a giver; evil ways are indeed taints in this world as well as in the next.',
+
+    243: 'A taint worse than these is ignorance of the Truth, which is the greatest of taints. O Bhikkhus, abandon this taint and be taintless.',
+
+    244: 'Life is easy for one who is shameless and bold as a crow, who slanders others and is pretentious, aggressive and corrupt.',
+
+    245: 'Life is hard for one with a sense of shame, who always seeks purity, who is free from attachment, who is modest and who sees clearly what is proper livelihood.',
+
+    246: 'He who destroys life, tells lies, takes what is not given him, commits adultery and takes intoxicating drinks, digs up his own roots even in this very life.',
+
+    247: 'He who destroys life, tells lies, takes what is not given him, commits adultery and takes intoxicating drinks, digs up his own roots even in this very life.',
+
+    248: 'Know this, O man! Not restraining oneself is evil; do not let greed and ill will subject you to prolonged misery.',
+
+    249: 'People give according to their faith and their devotion; one who is displeased with others receiving food and drink cannot attain concentration by day or by night.',
+
+    250: 'He who has this feeling of displeasure cut off, sprouted and removed, will surely attain concentration by day or by night.',
+
+    251: 'There is no fire like passion, there is no grip like ill will, there is no net like ignorance, there is no river like craving.',
+
+    252: 'It is easy for one to see the faults of others, but difficult to see one\'s own. That man broadcasts the faults of others like winnowing chaff in the wind, but hides his own faults as a crafty fowler covers himself.',
+
+    253: 'In one who constantly sees the faults of others and is always disparaging them, moral intoxicants increase; he is far from extinction of moral intoxicants.',
+
+    254: 'In the sky there is no track; outside the Buddha\'s Teaching there is no recluse. All beings take delight in fetters that prolong samsara; all the Buddhas are free from these fetters.',
+
+    255: 'In the sky there is no track; outside the Buddha\'s Teaching there is no recluse. There is no conditioned thing that is permanent; all the Buddhas are unperturbed.',
+
+    // The Just
+    
+    256: 'He is not just if he decides a case arbitrarily; the wise man should decide after considering both what is right and what is wrong.',
+
+    257: 'The wise man who decides not arbitrarily, but in accordance with the law is one who safeguards the law; he is called "one who abides by the law".',
+
+    258: 'He is not a wise man just because he talks much; only he who is peaceful, free from enmity, and does no harm to others, is called "a wise man".',
+
+    259: 'He is not "one versed in the Dhamma" just because he talks much. He who hears only a little but comprehends the Dhamma, and is not unmindful is, indeed "one versed in the Dhamma".',
+
+    260: 'He is not a Sage just because his head is grey; he who is ripe only in years is called "one grown old in vain."',
+
+    261: 'Only a wise man who comprehends the Four Noble Truths and the Dhamma, who is harmless and virtuous, who restrains his senses and has rid himself of moral defilements is indeed called a Sage.',
+
+    262: 'Not by fine talk, nor by good looks could one be a good-hearted man, if he were envious, miserly and crafty.',
+
+    263: 'A wise man who has cut off, uprooted and removed these and has rid himself of moral defilements is, indeed, called a good-hearted man.',
+
+    264: 'Not by a shaven head does a man become a monk, if he lacks morality, austere practices, and tells lies. How could he who is full of covetousness and greed be a monk?',
+
+    265: 'He who has totally subdued all evil, great and small, is called a monk because he has overcome all evil.',
+
+    266: 'He does not become a bhikkhu merely because he stands at the door for alms. He cannot become a bhikkhu because he acts according to a faith which is not in conformity with the Dhamma.',
+
+    267: 'In this world, he who lays aside both good and evil, who leads the life of purity, and lives meditating on the five aggregates is, indeed, called a bhikkhu.',
+
+    268: 'Not by silence does one become a sage, if one is dull and ignorant. Like one holding a pair of scales, the wise takes what is good and rejects what is evil. For this reason he is a sage. He who understands both internal and external aggregates is also, for that reason, called a sage.',
+
+    269: 'Not by silence does one become a sage, if one is dull and ignorant. Like one holding a pair of scales, the wise takes what is good and rejects what is evil. For this reason he is a sage. He who understands both internal and external aggregates is also, for that reason, called a sage.',
+
+    270: 'He who harms living beings is, for that reason, not a Noble One; he who does not harm any living beings is called a Noble One.',
+
+    271: 'Not by mere moral practice, nor by much learning, nor by acquiring concentration, nor by dwelling in seclusion, nor by assuring oneself "I enjoy the bliss of reclusion that is not enjoyed by the common" should the bhikkhu rest content without attaining the extinction of all moral intoxicants.',
+
+    272: 'Not by mere moral practice, nor by much learning, nor by acquiring concentration, nor by dwelling in seclusion, nor by assuring oneself "I enjoy the bliss of reclusion that is not enjoyed by the common" should the bhikkhu rest content without attaining the extinction of all moral intoxicants.',
+    
+    // The Path
+    
+    273: 'Of paths, the Noble Eight Fold Path is the noblest; of truths, the Four Noble Truths are the noblest; of the dhammas, the absence of craving is the noblest; of the two-legged beings, the All-seeing Buddha is the noblest.',
+
+    274: 'This is the only Path, and there is none other for the purity of vision. Follow this path; it will bewilder Mara.',
+
+    275: 'Following this Path, you will make an end of suffering. Having myself known the Path which can lead to the removal of the thorns of moral defilements, I have shown you the Path.',
+
+    276: 'You yourselves should make the effort; the Teachers can only show the way. Those who practice Tranquillity and Insight Meditation are freed from the bond of Mara.',
+
+    277: '"All conditioned phenomena are impermanent"; when one sees this with Insight-wisdom, one becomes weary of the world. This is the Path to Purity.',
+
+    278: '"All conditioned phenomena bring suffering"; when one sees this with Insight-wisdom, one becomes weary of the world. This is the Path to Purity.',
+
+    279: '"All conditioned phenomena are without Self"; when one sees this with Insight-wisdom, one becomes weary of the world. This is the Path to Purity.',
+
+    280: 'The idler who does not strive when he should be striving, who though young and strong is given to idleness, whose thoughts are weak and wandering, will not attain penetrating Insight which can only be perceived by wisdom.',
+
+    281: 'One should be careful in speech, be well-restrained in mind, and physically, too, one should do no evil. One should purify these three courses of action and accomplish the practice of the Noble Eight Fold Path made known by the Buddhas.',
+
+    282: 'Indeed, wisdom is born of meditation; without meditation wisdom is lost. Knowing this two fold path of gain and loss of wisdom, one should conduct oneself so that wisdom may increase.',
+
+    283: 'O Bhikkhus, cut down the forest of craving, not the real tree; the forest of craving breeds danger. Cut down the forest of craving as well as its undergrowth and be free from craving.',
+
+    284: 'So long as craving of someone is not cut down and the slightest trace of it remains, so long is the mind in bondage as the calf is bound to its mother.',
+
+    285: 'Cut off your craving as one plucks an autumn lily with the hand. Nibbana has been expounded on by the Buddha; cultivate that Path which leads to it.',
+
+    286: '"Here will I live in the rainy season; here will I live in the cold season and the hot season," so imagines the fool, not realizing the danger of approaching death.',
+
+    287: 'The man who dotes on his children and his herds of cattle, whose mind longs for and is attached to sensual pleasures, is carried away by Death even as a sleeping village is swept away by a great flood.',
+
+    288: 'Not sons, nor parents, nor close relatives can protect one assailed by Death; indeed, neither kith nor kin can give protection.',
+
+    289: 'Knowing this, the wise man restrained by morality should quickly clear the obstacles to the Path leading to Nibbana.',
+
+    // Miscellaneous
+    
+    290: 'If by giving up small pleasures, great happiness is to be found, the wise should give up small pleasures seeing the prospect of great happiness.',
+    
+    291: 'He who seeks his own happiness by inflicting pain on others, being entangled by bonds of enmity, cannot be free from enmity.',
+
+    292: 'In those who are conceited and unmindful and leave undone what should be done but, instead, do what should not be done, moral intoxicants increase.',
+
+    293: 'In those who always make a good effort in meditating on the body, who do not do what should not be done but always do what should be done, who are also mindful and endowed with clear comprehension, moral intoxicants come to an end.',
+
+    294: 'Having killed Craving, Conceit, and becoming and unbecoming, and having destroyed the sense bases and sense objects together with their attachments, the Noble One goes free from suffering.',
+
+    295: 'Having killed Craving, Conceit, becoming and unbecoming, and having destroyed the sense bases and sense objects together with their attachments, and having destroyed the hindrances of which doubt is like a tiger-infested journey, the Noble One goes free from suffering.',
+
+    296: 'Fully alert and ever vigilant are Gotama Buddha\'s disciples, who by day and by night are always mindful of the qualities of the Buddha.',
+
+    297: 'Fully alert and ever vigilant are Gotama Buddha\'s disciples, who by day and by night are always mindful of the qualities of the Dhamma.',
+
+    298: 'Fully alert and ever vigilant are Gotama Buddha\'s disciples, who by day and by night are always mindful of the qualities of the Sangha.',
+
+    299: 'Fully alert and ever vigilant are Gotama Buddha\'s disciples, who by day and by night are always mindful of the component parts of the body.',
+
+    300: 'Fully alert and ever vigilant are Gotama Buddha\'s disciples, whose mind by day and by night always takes delight in being compassionate.',
+    
+    301: 'Fully alert and ever vigilant are Gotama Buddha\'s disciples, whose mind by day and by night always takes delight in the cultivation of good-will towards all.',
+
+    302: 'It is hard to become a bhikkhu; it is hard to be happy in the practice of a bhikkhu. The hard life of a householder is painful; to live with those of a different temperament is painful. A traveller in samsara is continually subject to dukkha; therefore, do not be a traveller in samsara; do not be the one to be subject to dukkha again and again.',
+
+    303: 'He, who is full of faith and virtue, who also possesses fame and fortune, is held in reverence wherever he goes.',
+
+    304: 'Like the Himalayas, the good are visible even from afar; like arrows shot in the night, the wicked are not seen even though they may be near.',
+
+    305: 'He who sits alone, lies down alone, walks alone in diligent practice, and alone tames himself should find delight in living in the forest.',
 
 };
