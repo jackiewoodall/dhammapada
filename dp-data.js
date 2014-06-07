@@ -797,5 +797,53 @@ dammapada_verses = {
 
     // The Monk
     
+    360: 'Restraint in the eye is good, good is restraint in the ear; restraint in the nose is good, good is restraint in the tongue.',
+
+    361: 'Restraint in the body is good, good is restraint in speech; restraint in mind is good, good is restraint in all the senses. A bhikkhu restrained in all the senses is greed from all ills.',
+    
+    362: 'He who controls his hand, controls his foot, controls his speech, and has complete control of himself; who finds delight in Insight Development Practice and is calm; who stays alone and is contented; - him they call a bhikkhu.',
+
+    363: 'The bhikkhu who controls his mouth, who speaks wisely with his mind composed, who explains the meaning and the text of the Dhamma; - sweet are the words of that bhikkhu.',
+
+    364: 'The bhikkhu, who abides in the Dhamma, who delights in the Dhamma, who meditates on the Dhamma, and is ever mindful of the Dhamma, does not fall away from the Dhamma of the virtuous.',
+
+    365: 'One should not despise what one has received, nor should one envy others their gains. The bhikkhu who envies others cannot attain concentration.',
+
+    366: 'Though he receives only a little, if a bhikkhu does not despise what he has received, the devas will surely praise him who leads a pure life and is not slothful.',
+
+    367: 'He who does not take the mind-and-body aggregate as "I and mine", and who does not grieve over the dissolution is, indeed, called a bhikkhu.',
+
+    368: 'The bhikkhu, who lives exercising loving-kindness and is devoted to the Teaching of the Buddha, will reakize Nibbana - the Tranquil, the Unconditioned, the Blissful.',
+
+    369: 'O Bhikkhu, bale out the water of wrong thoughts from this boat (your body); when empty it will sail swiftly; having cut off passion and ill will you will realize Nibbana.',
+
+    370: 'Cut off the five lower fetters; give up the five upper fetters; and develop the five controlling faclities. The bhikkhu who has freed himself of the five bonds (passion, ill will, ignorance, pride and wrong view) is called "One who has crossed the flood".',
+
+    371: 'O Bhikkhu, meditate, and do not be unmindful; do not let your mind rejoice in sensual pleasures. Do not be unmindful and swallow the hot lump of iron; as you burn, do not cry, "This, indeed, is suffering".',
+
+    372: 'There can be no concentration in one who lacks wisdom; there can be no wisdom in one who lacks concentration. He who has concentration as well as wisdom is, indeed, close to Nibbana.',
+
+    373: 'The bhikkhu who goes into seclusion to meditate, whose mind is tranquil, who clearly perceives the Dhamma, experiences the joy which transcends that of ordinary men.',
+
+    374: 'Every time he clearly comprehends the arising and the perishing of the aggregates, he finds joy and rapture. That, to the wise, is the way to Nibbana.',
+
+    375: 'For a wise bhikkhu in this Teaching, this is the beginning of the practice leading to Nibbana: control of the senses, contentment, and restraint according to the Fundamental Precepts.',
+
+    376: 'Associate with good friends, who are energetic and whose livelihood is pure; let him be amiable and be correct in his conduct. Then, feeling much joy he will make an end of dukkha.',
+
+    377: 'O Bhikkhus! As the jasmin plant sheds its withered flowers, so also, should you shed passion and ill will.',
+
+    378: 'The bhikkhu who is calm in body, calm in speech, calm in mind, who is well-composed and has given up worldly pleasures, is called a "Tranquil One".',
+
+    379: 'O Bhikkhu, by yourself, exhort yourself, and examine yourself; thus guarding yourself and being mindful, you will live in peace.',
+
+    380: 'One indeed is one\'s own refuge, how could anyone else be one\'s refuge? One indeed is one\'s own haven; therefore, look after yourself as a horse dealer looks after a thoroughbred.',
+
+    381: 'The bhikkhu who frequently feels joy and is devoted to the Teaching of the Buddha will realize Nibbana - the Tranquil, the Unconditioned, the Blissful.',
+
+    382: 'A bhikkhu who, though young, devotes himself to the Teaching of the Buddha lights up the world, as does the moon freed from a cloud.',
+    
+    // The Holy Man
+    
     
 };
