@@ -741,4 +741,61 @@ dammapada_verses = {
 
     333: 'It is good to have virtue till old age, it is good to have unshakeable faith, it is good to gain wisdom, it is good to do no evil.',
 
+    // Craving
+    
+    334: 'In a man who is unmindful craving grows like a creeper. He runs from birth to birth, like a monkey seeking fruits in the forest.',
+
+    335: 'In this world, sorrow grows in one who is overwhelmed by this vile craving that clings to the senses, just as well-watered birana grass grows luxuriantly.',
+
+    336: 'In this world, sorrow falls away from one who overcome this vile craving that is difficult to get rid of, just as water-drops fall away from a lotus leaf.',
+
+    337: 'Therefore, I will deliver this worthy discourse to all of you who have assembled here. Dig up the root of craving just as one who wishes to have the fragrant root digs up the birana grass. Do not let Mara destroy you again and again, as the flood destroys the reed.',
+
+    338: 'Just as a tree with roots undamaged and firm grows again even though cut down, so also, if latent craving is not rooted out, this dukkha arises again and again.',
+
+    339: 'That man of wrong views, in whom the thirty-six streams (of craving) that flow towards pleasurable objects are strong, is carried away by his many thoughts connected with passion.',
+
+    340: 'The stream of craving flows towards all sense objects; the creeper of craving arises at the six sense-doors and fixes itself on the six sense objects. Seeing that creeper of craving growing, cut off its roots with Insight Knowledge.',
+
+    341: 'In beings, there flows happiness that is smeared with craving; those beings attached to pleasure and seeking pleasure are, indeed, subject to birth and ageing.',
+
+    342: 'People beset with craving are terrified like a hare caught in a snare; held fast by fetters and bonds they undergo dukkha again and again, for a long time.',
+
+    343: 'People beset with craving are terrified like a hare caught in a snare. Therefore, one who wishes to free himself from craving should eradicate craving.',
+
+    344: 'Having left the forest of desire, he takes to the forest of the practice; but when he is free from the forest of desire he rushes back to that very forest. Come, look at that man who having become free rushes back into that very bondage.',
+
+    345: 'The wise do not say that bonds made of iron, of wood and of hemp are strong bonds; they say that only passionate attachment to and care for gems and jewelry, children and wives are strong bonds. These drag one down and, although they seem yielding, are difficult to unfasten. The wise, cutting off this bond of craving and resolutely giving up sensual pleasures, renounce the world.',
+
+    346: 'The wise do not say that bonds made of iron, of wood and of hemp are strong bonds; they say that only passionate attachment to and care for gems and jewelry, children and wives are strong bonds. These drag one down and, although they seem yielding, are difficult to unfasten. The wise, cutting off this bond of craving and resolutely giving up sensual pleasures, renounce the world.',
+    
+    347: 'Beings who are infatuated with lust fall back into the Stream of Craving they have generated, just as a spider dies in the web it has spun. The wise, cutting off the bond of craving, walk on resolutely, leaving all ills behind.',
+
+    348: 'Give up the past, give up the future, give up the present. Having reached the end of existences, with a mind freed from all conditioned things, you will not again undergo birth and decay.',
+
+    349: 'In a man who is disturbed by (sensual) thoughts, whose passions are strong, and who keeps seeing objects as being pleasant, craving grows more and more. Indeed, he makes his bondage strong.',
+
+    350: 'A man who takes delight in calming thoughts, who is ever mindful, and meditates on the impurities will certainly get rid of craving; this man will cut the bond of Mara.',
+
+    351: 'He who has attained arahatship is free from fear, free from craving, and free from moral defilements. He has cut off the thorns of existence. This is the last existence.',
+
+    352: 'He who is free from craving, and from attachment, who is skilled in the knowledge of the significance of terms, who knows the grouping of letters and their sequence is indeed called "one who has lived his last, a man of great wisdom, a great man".',
+
+    353: 'I have overcome all, I know all, I am detached from all, I have given up all; I am liberated from moral defilements having eradicated Craving. Having comprehended the Four Noble Truths by myself, whom should I point out as my teacher?',
+
+    354: 'The gift of the Dhamma excels all gifts; the taste of the Dhamma excels all tastes; delight in the Dhamma excels all delights. The eradication of Craving overcomes all ills.',
+
+    355: 'Wealth destroys the foolish; but it cannot destroy those who seek the other shore. By his craving for wealth the fool destroys himself, as he would destroy others.',
+
+    356: 'Weeds damage fields; lust spoils all beings. Therefore, giving to those free from lust yields great benefit.',
+
+    357: 'Weeds damage fields; ill will spoil all beings. Therefore, giving to those free from ill will yield great benefit.',
+
+    358: 'Weeds damage fields; ignorance spoils all beings. Therefore, giving to those free from ignorance yields great benefit.',
+
+    359: 'Weeds damage fields; covetousness spoils all beings. Therefore, giving to those free from covetousness yields great benefit.',
+
+    // The Monk
+    
+    
 };
