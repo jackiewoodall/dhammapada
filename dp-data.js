@@ -710,5 +710,35 @@ dammapada_verses = {
     318: 'Beings who imagine wrong in what is not wrong, who do not see wrong in what is wrong, and who hold wrong views, go into a state of woe.',
 
     319: 'Beings who know what is wrong as wrong, who know what is right as right, and who hold right views, go into a state of happiness.',
+    
+    // The Elephant
+    
+    320: 'As an elephant in battlefield withstands the arrow shot from a bow, so shall I endure abuse. Indeed, many people are without morality.',
+
+    321: 'Only the trained horses and elephants are led to gatherings of people; the king mounts only the trained horses and elephants. Noblest among men are the tamed, who endure abuse.',
+
+    322: 'Mules, thoroughbred horses, horses from Sindh, and great elephants are noble only when they are trained; but one who has tamed himself is far nobler.',
+
+    323: 'Indeed, not by any means of transport can one go to the place one has never been before; but by thoroughly taming oneself, the tamed one can get to that place.',
+
+    324: 'The elephant called Dhanapala, in severe must and uncontrollable, being in captivity, eats not a morsel, yearning for his native forest.',
+
+    325: 'The stupid one, who is lazy, gluttonous, and drowsy, who just wallows like a well-fed pig, is subject to repeated rebirths.',
+
+    326: 'In the past, this mind has wandered as it liked, wherever it liked, at its own pleasure. Now I will control my mind wisely, as a mahout with his goad controls an elephant in must.',
+
+    327: 'Take delight in mindfulness, guard your mind well. As an elephant stuck in mire pulls itself out, so also, pull yourself out of the mire of moral defilements.',
+
+    328: 'If one finds a sagacious friend, who is a virtuous and steadfast companion, one should live with him joyfully and mindfully, overcoming all dangers.',
+
+    329: 'If one cannot find a sagacious friend, who is a virtuous and steadfast companion, one should live alone like the king who gave up and left the country he had won, and like the elephant Matanga roaming alone in the forest.',
+
+    330: 'It is better to live alone; there is no fellowship with a fool. So one should live alone, do no evil, and be carefree like the elephant Matanga roaming alone in the forest.',
+
+    331: 'It is good to have friends when the need arises; it is good to be content with anything that is available; it is good to have merit when life is about to end: it is good to be rid of all suffering.',
+
+    332: 'In this world it is good to be dutiful to one\'s mother; also it is good to be dutiful to one\'s father. In this world also it is good to minister unto recluses; also, it is good to minister unto the Wise.',
+
+    333: 'It is good to have virtue till old age, it is good to have unshakeable faith, it is good to gain wisdom, it is good to do no evil.',
 
 };
