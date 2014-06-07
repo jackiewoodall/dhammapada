@@ -845,5 +845,86 @@ dammapada_verses = {
     
     // The Holy Man
     
-    
+    383: 'O holy man, cut off the stream of craving with diligence, and abandon sense desires. O holy man, perceiving the cessation of the Conditioned, be an arahat who realize Nibbana, the Unconditioned.',
+
+    384: 'When the holy man is well-established in the two dhammas (i.e., the practice of Tranquillity and Insight Meditation), then, in that knowing one, all fetters are destroyed.',
+
+    385: 'Him I call a holy man, who has for him neither this shore (i.e., the sense bases) nor the other shore (i.e., the sense objects), and who is undistressed and free from moral defilements.',
+
+    386: 'Him I call a holy man who dwells in seclusion practicing Tranquillity and Insight Meditation and is free from taints of moral defilements, who has performed his duties and is free from moral intoxicants and has reached the highest goal.',
+
+    387: 'By day shines the sun; by night shines the moon; in regalia the king; in meditation shines the arahat; but the Buddha in his glory shines at all times, by day and by night.',
+
+    388: 'Because he has discarded evil he is called a "holy man"; because he lives calmly he is called a "recluse"; and because he gets rid of his impurities he is called a "renunciate".',
+
+    389: 'One should not strike a holy man; a holy man should not get angry with his assailant; it is shameful to strike, a holy man; it is more shameful to get angry with one\'s assailant.',
+
+    390: 'For a holy man there is no benefit at all, if he does not restrain from anger to which his mind is prone. In as much as the intention to harm is desisted, to that extent dukkha ceases.',
+
+    391: 'Him I call a holy man who does not evil indeed or word or thought, who is restrained in these three respects.',
+
+    392: 'If from somebody one should learn the Teaching of the Buddha, he should respectfully pay homage to that teacher, as a brahmin worships the sacrificial fire.',
+
+    393: 'Not by wearing matted hair, nor by lineage, nor by caste, does one become a holy man; only he who realize the truth and the Dhamma is pure; he is a holy man.',
+
+    394: 'O foolish one! What is the use if your wearing matted hair? What is the use of your wearing garment made of antelope skin? In you, there is a forest of moral defilements; you clean yourself only externally.',
+
+    395: 'Him I call a holy man, who wears robes made from rags, who is lean with veins standing out, who meditates alone in the forest.',
+
+    396: 'I do not call him a holy man just because he is born from the womb of a highborn mother. He is just a bhovadi brahmin if he is not free from moral defilements. Him I call a holy man, who is free from moral defilements and attachment.',
+
+    397: 'Him I call a holy man, who has cut off all fetters and is fearless, who is beyond attachment and is free from moral defilements.',
+
+    398: 'Him I call a holy man, who has cut the strap of ill will, the thong of craving, and the cord of wrong views, who has lifted the bar that fastens the door of ignorance, and who knows the Truth.',
+
+    399: 'Him I call a holy man, who, without anger, endures abuse, beating and being bound, to whom the strength of patience is like the strength of any army.',
+
+    400: 'Him I call a holy man, who is free from anger, who practices austerity, who is virtuous and free from craving, who is controlled in his senses and for whom this body is the very last.',
+
+    401: 'Him I call a holy man who does not cling to sensual pleasures, just as water does not cling to a lotus leaf, or the mustard seed to the tip of an awl.',
+
+    402: 'Him I call a holy man who even in this existence realizes the end of suffering, who has laid down the burden of attachments, and who is free from moral defilements.',
+
+    403: 'Him I call a holy man who is wise and is profound in his knowledge, who knows the right way from the wrong way, and who has attained the highest goal.',
+
+    404: 'Him I call a holy man who associates not with the householder or with the homeless one, or with both, who is free from sensual desire, and has few wants.',
+
+    405: 'Him I call a holy man who has laid aside the use of force towards all beings, the perturbed as well as the unperturbed, and who does not kill or cause others to kill.',
+
+    406: 'Him I call a holy man who is not hostile to those who are hostile, who is peaceful to those with weapons, and who is without attachment to objects of attachment.',
+
+    407: 'Him I call a holy man, from whom passion, ill will, pride and detraction have fallen off, like a mustard seed from the tip of an awl.',
+
+    408: 'Him I call a holy man who speaks gentle, instructive and true words, and who does not offend anyone by speech.',
+
+    409: 'Him I call a holy man who, in this world, takes nothing that is not given him, be it long or short, big or small, good or bad.',
+
+    410: 'Him I call a holy man who has no desire either for this world or for the next, who is free from craving and from moral defilements.',
+
+    411: 'Him I call a holy man who has no craving, who through knowledge of the Four Noble Truths is free from doubt, and has realized Nibbana the Deathless.',
+
+    412: 'Him I call a holy man who, in this world, has transcended both ties good and evil; who is sorrowless and, being free from the taints of moral defilements, is pure.',
+
+    413: 'Him I call a holy man who, like the moon in a cloudless sky, is pure, clear and serene, and in whom craving for existence is extinct.',
+
+    414: 'Him I call a holy man who, having traversed this dangerous swamp of passion, this difficult road of moral defilements, the ocean of life, and the darkness of ignorance, and having crossed the fourfold Flood has reached the other shore, who practices Tranquillity and Insight Meditation is free from craving and from doubt, who clings to nothing and remains in perfect peace.',
+
+    415: 'Him I call a holy man who, in this world, has given up sensual pleasures, and leaving the homelife has become a bhikkhu; who has eradicated sensual desires and has come to the end of existence.',
+
+    416: 'Him I call a holy man who, in this world, has given up craving, and leaving the home-life has become a bhikkhu; who has eradicated craving and has come to the end of existence.',
+
+    417: 'Him I call a holy man who has given up attachment to sensual pleasures of human life, has transcended attachment to sensual pleasures of deva life and is completely free from all attachment.',
+
+    418: 'Him I call a holy man who has given up taking delight in sensual pleasures and not taking delight in solitude; who has attained perfect peace and is free from moral defilements; who has overcome the world and is diligent.',
+
+    419: 'Him I call a holy man, who knows the death and rebirth of beings in every detail, who is detached, who follows the good practice and knows the Four Noble Truths.',
+
+    420: 'Him I call a holy man, whose destination the gods or angels or men do not know, who has eradicated moral intoxicants and is an arahat.',
+
+    421: 'Him I call a holy man, who does not cling to the past, future and present aggregates and who is free from moral defilements and attachment.',
+
+    422: 'Him I call a holy man, who is fearless like a bull, who is noble and diligent, who is a seeker of high moral virtues and a conqueror of defilements who is free from craving, who has been cleansed of moral defilements and knows the Four Noble Truths.',
+
+    423: 'Him I call a holy man, who knows past existences, who sees the celestial as well as the lower worlds, who has reached the end of rebirths, who, with Insight Knowledge, has become as arahat and has accomplished all that is to be accomplished for the eradication of moral defilements.'
+
 };
