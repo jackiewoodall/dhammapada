@@ -681,4 +681,34 @@ dammapada_verses = {
 
     305: 'He who sits alone, lies down alone, walks alone in diligent practice, and alone tames himself should find delight in living in the forest.',
 
+    // The State of Woe
+    
+    306: 'One who tells lies goes into a state of woe; one who has done evil and says, "I did not do it," also goes into woe. Both of them being evil-doers, suffer alike in their next existence.',
+
+    307: 'Many men wearing the yellow robe up to their necks who have an evil disposition and are unrestrained in thought, word and deed are reborn into a state of woe on account of their evil deeds.',
+
+    308: 'It is better for one to eat a red-hot lump of iron burning like a flame than to eat alms-food offered by the people, if one is without morality and unrestrained in thought, word and deed.',
+
+    309: 'Four misfortunes befall a man who is unmindful of right conduct and commits sexual misconduct with another man\'s wife: acquisition of demerit, disturbed sleep, reproach, and suffering in states of woe.',
+
+    310: 'Thus, there is the acquisition of demerit, and there is rebirth in the evil realms. The enjoyment of a scared man with a scared woman is short-lived, and the king also metes out severe punishment. Therefore, a man should not commit sexual misconduct with another man\'s wife.',
+
+    311: 'Just as kusa grass if badly held cuts that very hand, so also, the ill-led life of a bhikkhu drags that bhikkhu down into a state of woe.',
+
+    312: 'An act perfunctorily performed, or a practice that is depraved, or a questionable conduct of a bhikkhu is not of much benefit.',
+
+    313: 'If there is anything to be done, do it well; do it firmly and energetically: for the slack life of a bhikkhu scatters much dust.',
+
+    314: 'It is better not to do an evil deed; an evil deed torments one later on. It is better to do a good deed, as one does not have to repent for having done it.',
+
+    315: 'As a border town is guarded both inside and outside, so guard yourself. Let not the right moment go by; for those who miss this moment come to grief when they fall into a state of woe.',
+
+    316: 'Those beings who are ashamed of what should not be ashamed of, who are not ashamed of what should be ashamed of, and who hold wrong views, go towards a state of woe.',
+
+    317: 'Those beings who see danger in what is not dangerous, who do not see danger in what is dangerous, and who hold wrong views, go towards a state of woe.',
+
+    318: 'Beings who imagine wrong in what is not wrong, who do not see wrong in what is wrong, and who hold wrong views, go into a state of woe.',
+
+    319: 'Beings who know what is wrong as wrong, who know what is right as right, and who hold right views, go into a state of happiness.',
+
 };
