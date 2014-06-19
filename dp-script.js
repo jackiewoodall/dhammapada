@@ -6,6 +6,7 @@ dpScript = {
         document.getElementById("btn-random").onclick = this.Random;
         document.getElementById("btn-next").onclick = this.Next;
         document.getElementById("btn-previous").onclick = this.Previous;
+        document.getElementById("btn-url").onclick = this.UrlDump;
         
         dpScript.OnLoad();
     },
@@ -30,8 +31,44 @@ dpScript = {
             element.onchange = dpScript.EpisodeSelectionChange;
         }
         
-        // go to a random verse
+        // go to a verse
+        dpScript.StartVerse();
+    },
+    
+    StartVerse : function() {
+        
+        // URL parameter parse
+        var params = window.location.search.substring(1).split('&');
+        if(params.length>0) {
+            for(var i = 0; i < params.length; i++) {
+                var param = params[i].split('=');
+                
+                for(var j = 0; j < param.length; j+=2) {
+                    if(param[j] == "v") {
+                        var verse = param[j+1];
+                        if(verse>0 && verse<= Object.keys(dammapada_verses).length){
+                            dpScript.SetVerse(verse);
+                            return;
+                        }
+                    }
+                }
+            }
+        }
+        
         dpScript.Random();
+    },
+    
+    UrlDump : function() {
+        var url = window.location.href;
+        
+        var i = url.indexOf('?');
+        if(i>0) {
+            url = url.substring(0,i);
+        }
+        
+        url = url + "?v=" + dpScript._currentVerse;
+        
+        document.getElementById("txtUrl").innerHTML = url;
     },
     
     EpisodeSelectionChange : function() {
