@@ -365,7 +365,7 @@ dammapada_verses = {
 
     // The Self
     
-    157: 'If one knows that one is dear to oneself, one should protect oneself well. During any of the three watches of life the wise man should be on guard against evil',
+    157: 'If one knows that one is dear to oneself, one should protect oneself well. During any of the three watches of life the wise man should be on guard against evil.',
 
     158: 'One should first establish oneself in what is proper; then only one should teach others. A wise man should not incur reproach.',
 
