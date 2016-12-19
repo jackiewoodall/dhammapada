@@ -129,7 +129,12 @@ dpScript = {
             var upper = dammapada_episode[episode][1];
             
             if(dpScript._currentVerse >= lower && dpScript._currentVerse <= upper ) {
-                document.getElementById("dp-episode").innerHTML = episode;
+                if(document.getElementById("dp-episode").innerHTML != episode) {
+                    document.getElementById("dp-episode").innerHTML = episode;
+                }
+                if(document.getElementById("select-episode").value != episode) {
+                    document.getElementById("select-episode").value = episode;
+                }
                 break;
             }
         }
