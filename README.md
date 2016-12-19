@@ -2,7 +2,7 @@ Dhammapada Reader
 =================
 Words of Wisdom from the Buddha
 
-http://exsanguinator.github.io/dhammapada/
+http://jackie.woodallfamily.org/dhammapada/
 
 Source Text: http://www.tipitaka.net/tipitaka/dhp/index.php
 
