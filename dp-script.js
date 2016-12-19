@@ -6,7 +6,6 @@ dpScript = {
         document.getElementById("btn-random").onclick = this.Random;
         document.getElementById("btn-next").onclick = this.Next;
         document.getElementById("btn-previous").onclick = this.Previous;
-        document.getElementById("btn-url").onclick = this.UrlDump;
         
         dpScript.OnLoad();
     },
@@ -58,7 +57,7 @@ dpScript = {
         dpScript.Random();
     },
     
-    UrlDump : function() {
+    UrlSet : function() {
         var url = window.location.href;
         
         var i = url.indexOf('?');
@@ -68,7 +67,8 @@ dpScript = {
         
         url = url + "?v=" + dpScript._currentVerse;
         
-        document.getElementById("txtUrl").innerHTML = url;
+        document.getElementById("a-url").innerHTML = url;
+        document.getElementById("a-url").setAttribute("href", url)
     },
     
     EpisodeSelectionChange : function() {
@@ -118,6 +118,8 @@ dpScript = {
             document.getElementById("dp-passage").innerHTML = text;
             
             dpScript.UpdateEpisode();
+
+            dpScript.UrlSet();
         }
     },
     
