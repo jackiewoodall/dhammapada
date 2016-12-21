@@ -143,9 +143,9 @@ dammapada_verses = {
     
     53:	'As from a collection of flowers many a garland can be made by an expert florist, so also, much good can be done with wealth, out of faith and generosity, by one subject to birth and death.',
     
-    54:	'The scent of flowers cannot go against the wind; nor the scent of sandalwood, nor of rhododendron, nor of jasmin; only the reputation of good people can go against the wind. The reputation of the virtuous ones is wafted abroad in all directions.',
+    54:	'The scent of flowers cannot go against the wind; nor the scent of sandalwood, nor of rhododendron, nor of jasmine; only the reputation of good people can go against the wind. The reputation of the virtuous ones is wafted abroad in all directions.',
     
-    55:	'There are the scents of sandalwood, rhododendron, lotus and jasmin; but the scent of virtue surpasses all scents.',
+    55:	'There are the scents of sandalwood, rhododendron, lotus and jasmine; but the scent of virtue surpasses all scents.',
     
     56:	'The scents of rhododendron and of sandalwood are very faint, but the scent (reputation) of the virtuous is the strongest; it spreads even to the abodes of the devas.',
     
@@ -435,9 +435,9 @@ dammapada_verses = {
 
     189: 'But such a refuge is not a safe refuge, not the best refuge. One is not liberated from all evil consequences of existence for having come to such a refuge.',
 
-    190: 'One who takes refuge in the Buddha, the Dhamma and the Sangha, sees with Insight the Four Noble Truths: Suffering, the Cause of Suffering, the Cessation of Suffering, and the Noble Eight Fold Path which leads to the Cessation of Suffering.',
+    190: 'One who takes refuge in the Buddha, the Dhamma and the Sangha, sees with Insight the Four Noble Truths: Suffering, the Cause of Suffering, the Cessation of Suffering, and the Noble Eightfold Path which leads to the Cessation of Suffering.',
 
-    191: 'One who takes refuge in the Buddha, the Dhamma and the Sangha, sees with Insight the Four Noble Truths: Suffering, the Cause of Suffering, the Cessation of Suffering, and the Noble Eight Fold Path which leads to the Cessation of Suffering.',
+    191: 'One who takes refuge in the Buddha, the Dhamma and the Sangha, sees with Insight the Four Noble Truths: Suffering, the Cause of Suffering, the Cessation of Suffering, and the Noble Eightfold Path which leads to the Cessation of Suffering.',
 
     192: 'This indeed, is the safe refuge; this is the best refuge. Having come to this refuge, one is liberated from all suffering.',
 
@@ -613,7 +613,7 @@ dammapada_verses = {
     
     // The Path
     
-    273: 'Of paths, the Noble Eight Fold Path is the noblest; of truths, the Four Noble Truths are the noblest; of the dhammas, the absence of craving is the noblest; of the two-legged beings, the All-seeing Buddha is the noblest.',
+    273: 'Of paths, the Noble Eightfold Path is the noblest; of truths, the Four Noble Truths are the noblest; of the dhammas, the absence of craving is the noblest; of the two-legged beings, the All-seeing Buddha is the noblest.',
 
     274: 'This is the only Path, and there is none other for the purity of vision. Follow this path; it will bewilder Mara.',
 
@@ -629,7 +629,7 @@ dammapada_verses = {
 
     280: 'The idler who does not strive when he should be striving, who though young and strong is given to idleness, whose thoughts are weak and wandering, will not attain penetrating Insight which can only be perceived by wisdom.',
 
-    281: 'One should be careful in speech, be well-restrained in mind, and physically, too, one should do no evil. One should purify these three courses of action and accomplish the practice of the Noble Eight Fold Path made known by the Buddhas.',
+    281: 'One should be careful in speech, be well-restrained in mind, and physically, too, one should do no evil. One should purify these three courses of action and accomplish the practice of the Noble Eightfold Path made known by the Buddhas.',
 
     282: 'Indeed, wisdom is born of meditation; without meditation wisdom is lost. Knowing this two fold path of gain and loss of wisdom, one should conduct oneself so that wisdom may increase.',
 
@@ -813,11 +813,11 @@ dammapada_verses = {
 
     367: 'He who does not take the mind-and-body aggregate as "I and mine", and who does not grieve over the dissolution is, indeed, called a bhikkhu.',
 
-    368: 'The bhikkhu, who lives exercising loving-kindness and is devoted to the Teaching of the Buddha, will reakize Nibbana - the Tranquil, the Unconditioned, the Blissful.',
+    368: 'The bhikkhu, who lives exercising loving-kindness and is devoted to the Teaching of the Buddha, will realize Nibbana - the Tranquil, the Unconditioned, the Blissful.',
 
     369: 'O Bhikkhu, bale out the water of wrong thoughts from this boat (your body); when empty it will sail swiftly; having cut off passion and ill will you will realize Nibbana.',
 
-    370: 'Cut off the five lower fetters; give up the five upper fetters; and develop the five controlling faclities. The bhikkhu who has freed himself of the five bonds (passion, ill will, ignorance, pride and wrong view) is called "One who has crossed the flood".',
+    370: 'Cut off the five lower fetters; give up the five upper fetters; and develop the five controlling faculties. The bhikkhu who has freed himself of the five bonds (passion, ill will, ignorance, pride and wrong view) is called "One who has crossed the flood".',
 
     371: 'O Bhikkhu, meditate, and do not be unmindful; do not let your mind rejoice in sensual pleasures. Do not be unmindful and swallow the hot lump of iron; as you burn, do not cry, "This, indeed, is suffering".',
 
@@ -831,7 +831,7 @@ dammapada_verses = {
 
     376: 'Associate with good friends, who are energetic and whose livelihood is pure; let him be amiable and be correct in his conduct. Then, feeling much joy he will make an end of dukkha.',
 
-    377: 'O Bhikkhus! As the jasmin plant sheds its withered flowers, so also, should you shed passion and ill will.',
+    377: 'O Bhikkhus! As the jasmine plant sheds its withered flowers, so also, should you shed passion and ill will.',
 
     378: 'The bhikkhu who is calm in body, calm in speech, calm in mind, who is well-composed and has given up worldly pleasures, is called a "Tranquil One".',
 
@@ -867,7 +867,7 @@ dammapada_verses = {
 
     393: 'Not by wearing matted hair, nor by lineage, nor by caste, does one become a holy man; only he who realize the truth and the Dhamma is pure; he is a holy man.',
 
-    394: 'O foolish one! What is the use if your wearing matted hair? What is the use of your wearing garment made of antelope skin? In you, there is a forest of moral defilements; you clean yourself only externally.',
+    394: 'O foolish one! What is the use if you\'re wearing matted hair? What is the use of your wearing garment made of antelope skin? In you, there is a forest of moral defilements; you clean yourself only externally.',
 
     395: 'Him I call a holy man, who wears robes made from rags, who is lean with veins standing out, who meditates alone in the forest.',
 
