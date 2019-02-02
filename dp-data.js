@@ -721,7 +721,7 @@ dammapada_verses = {
 
     323: 'Indeed, not by any means of transport can one go to the place one has never been before; but by thoroughly taming oneself, the tamed one can get to that place.',
 
-    324: 'The elephant called Dhanapala, in severe must and uncontrollable, being in captivity, eats not a morsel, yearning for his native forest.',
+    324: 'The elephant called Dhanapala is hard to control when in rut; Tied down, the tusker doesn\'t even eat, remembering the elephant forest.',
 
     325: 'The stupid one, who is lazy, gluttonous, and drowsy, who just wallows like a well-fed pig, is subject to repeated rebirths.',
 
