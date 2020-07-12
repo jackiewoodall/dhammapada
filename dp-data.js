@@ -87,7 +87,7 @@ dammapada_verses = {
     
     27:	'One should not be negligent, nor be addicted to sensual pleasures; for he who is established in mindfulness, through cultivation of Tranquillity and Insight Development Practice, experiences supreme happiness (i.e., realizes Nibbana).',
     
-    28:	'The wise one dispels negligence by means of mindfulness; he ascends the tower of wisdom and being free from sorrow looks at the sorrowing beings. Just as one on the mountain top looks at those on the plain below, so also the wise one (the arahat) looks at the foolish and the ignorant worldlings.',
+    28:	'The wise one dispels negligence by means of mindfulness; he ascends the tower of wisdom and being free from sorrow looks at the sorrowing beings. Just as one on the mountain top looks at those on the plain below, so also the wise one (the arahant) looks at the foolish and the ignorant worldlings.',
     
     29:	'Mindful amongst the negligent, highly vigilant amongst the drowsy, the man of wisdom advances like a race-horse, leaving the jade behind.',
     
@@ -217,7 +217,7 @@ dammapada_verses = {
     
     88: 'The man of wisdom, leaving the home of craving and having Nibbana as his goal, should give up dark, evil ways and cultivate pure, good ones. He should seek great delight in solitude, detachment and Nibbana, which an ordinary man finds so difficult to enjoy. He should also give up sensual pleasures, and clinging to nothing, should cleanse himself of all impurities of the mind.',
     
-    89: 'Those, with mind well-developed in the Seven Factors of Enlightenment, and who have rid themselves of all craving, rejoice in their abandonment of attachment. Such men, with all moral intoxicants eradicated, and powerful with the light of Arahatta Magganana have realized Nibbana in this world.',
+    89: 'Those, with mind well-developed in the Seven Factors of Enlightenment, and who have rid themselves of all craving, rejoice in their abandonment of attachment. Such men, with all moral intoxicants eradicated, and powerful with the light of Arahantta Magganana have realized Nibbana in this world.',
     
     // The Arahant
     
@@ -225,19 +225,19 @@ dammapada_verses = {
     
     91: 'The mindful strive diligently; they take no delight in the life of sensual pleasures; like swans that forsake the muddy pool, they abandon all craving.',
     
-    92: 'Arahats do not hoard anything; when taking food they reflect well over it. They have as their object liberation from existence, i.e., Nibbana which is Void and Signless. Their destination, like the course of birds in the air, cannot be traced.',
+    92: 'Arahants do not hoard anything; when taking food they reflect well over it. They have as their object liberation from existence, i.e., Nibbana which is Void and Signless. Their destination, like the course of birds in the air, cannot be traced.',
     
-    93: 'The arahat is free from moral intoxicants; he is not attached to food. He has as his object Liberation from existence, i.e., Nibbana which is Void and Signless. His path, like that of birds in the air, cannot be traced.',
+    93: 'The arahant is free from moral intoxicants; he is not attached to food. He has as his object Liberation from existence, i.e., Nibbana which is Void and Signless. His path, like that of birds in the air, cannot be traced.',
     
-    94: 'The arahat whose sense-faculties are calm like horses well-tamed by the charioteer, who is free from pride and moral intoxicants - such an arahat is held dear even by the devas.',
+    94: 'The arahant whose sense-faculties are calm like horses well-tamed by the charioteer, who is free from pride and moral intoxicants - such an arahant is held dear even by the devas.',
     
-    95: 'Like the Earth, the arahat is patient and is not provoked to respond in anger; like the doorpost he is firm; he is unperturbed by the ups and downs of life; he is serene and pure like a lake free from mud. For such an arahat there will be no more rebirth.',
+    95: 'Like the Earth, the arahant is patient and is not provoked to respond in anger; like the doorpost he is firm; he is unperturbed by the ups and downs of life; he is serene and pure like a lake free from mud. For such an arahant there will be no more rebirth.',
     
-    96: 'An arahat is calm in his mind, calm in his speech, and also in his deed; truly knowing the Dhamma, such an arahat is free from moral defilements and is unperturbed by the ups and downs of life.',
+    96: 'An arahant is calm in his mind, calm in his speech, and also in his deed; truly knowing the Dhamma, such an arahant is free from moral defilements and is unperturbed by the ups and downs of life.',
     
-    97: 'He who is not credulous, who has realized the Unconditioned, who has cut off the links of the round of rebirths, who has destroyed all consequences of good and bad deeds, who has discarded all craving, is indeed the noblest of all men (i.e., as arahat).',
+    97: 'He who is not credulous, who has realized the Unconditioned, who has cut off the links of the round of rebirths, who has destroyed all consequences of good and bad deeds, who has discarded all craving, is indeed the noblest of all men (i.e., as arahant).',
     
-    98: 'In a village or in a forest, in a valley or on a hill, wherever the arahats dwell, that place is delightful.',
+    98: 'In a village or in a forest, in a valley or on a hill, wherever the arahant dwell, that place is delightful.',
 
     99: 'Forests are delightful, but the worldlings find no delight in them; only those who are free from passion will find delight in them, for they do not seek sensual pleasures.',
     
@@ -511,7 +511,7 @@ dammapada_verses = {
 
     224: 'One should speak the truth, one should not yield to anger, one should give when asked even if it is only a little. By means of these three, one may go to the world of the devas.',
 
-    225: 'The arahats, who do not harm others and are always restrained in their actions, go to the deathless Nibbana, where there is no sorrow.',
+    225: 'The arahant, who do not harm others and are always restrained in their actions, go to the deathless Nibbana, where there is no sorrow.',
 
     226: 'In those who are ever vigilant, who by day and by night train themselves in the three sikkhas (i.e., virtue, concentration and wisdom), and who have their mind directed towards Nibbana, moral intoxicants become extinct.',
 
@@ -777,7 +777,7 @@ dammapada_verses = {
 
     350: 'A man who takes delight in calming thoughts, who is ever mindful, and meditates on the impurities will certainly get rid of craving; this man will cut the bond of Mara.',
 
-    351: 'He who has attained arahatship is free from fear, free from craving, and free from moral defilements. He has cut off the thorns of existence. This is the last existence.',
+    351: 'He who has attained arahantship is free from fear, free from craving, and free from moral defilements. He has cut off the thorns of existence. This is the last existence.',
 
     352: 'He who is free from craving, and from attachment, who is skilled in the knowledge of the significance of terms, who knows the grouping of letters and their sequence is indeed called "one who has lived his last, a man of great wisdom, a great man".',
 
@@ -845,7 +845,7 @@ dammapada_verses = {
     
     // The Holy Man
     
-    383: 'O holy man, cut off the stream of craving with diligence, and abandon sense desires. O holy man, perceiving the cessation of the Conditioned, be an arahat who realize Nibbana, the Unconditioned.',
+    383: 'O holy man, cut off the stream of craving with diligence, and abandon sense desires. O holy man, perceiving the cessation of the Conditioned, be an arahant who realize Nibbana, the Unconditioned.',
 
     384: 'When the holy man is well-established in the two dhammas (i.e., the practice of Tranquillity and Insight Meditation), then, in that knowing one, all fetters are destroyed.',
 
@@ -853,7 +853,7 @@ dammapada_verses = {
 
     386: 'Him I call a holy man who dwells in seclusion practicing Tranquillity and Insight Meditation and is free from taints of moral defilements, who has performed his duties and is free from moral intoxicants and has reached the highest goal.',
 
-    387: 'By day shines the sun; by night shines the moon; in regalia the king; in meditation shines the arahat; but the Buddha in his glory shines at all times, by day and by night.',
+    387: 'By day shines the sun; by night shines the moon; in regalia the king; in meditation shines the arahant; but the Buddha in his glory shines at all times, by day and by night.',
 
     388: 'Because he has discarded evil he is called a "holy man"; because he lives calmly he is called a "recluse"; and because he gets rid of his impurities he is called a "renunciate".',
 
@@ -919,12 +919,12 @@ dammapada_verses = {
 
     419: 'Him I call a holy man, who knows the death and rebirth of beings in every detail, who is detached, who follows the good practice and knows the Four Noble Truths.',
 
-    420: 'Him I call a holy man, whose destination the gods or angels or men do not know, who has eradicated moral intoxicants and is an arahat.',
+    420: 'Him I call a holy man, whose destination the gods or angels or men do not know, who has eradicated moral intoxicants and is an arahant.',
 
     421: 'Him I call a holy man, who does not cling to the past, future and present aggregates and who is free from moral defilements and attachment.',
 
     422: 'Him I call a holy man, who is fearless like a bull, who is noble and diligent, who is a seeker of high moral virtues and a conqueror of defilements who is free from craving, who has been cleansed of moral defilements and knows the Four Noble Truths.',
 
-    423: 'Him I call a holy man, who knows past existences, who sees the celestial as well as the lower worlds, who has reached the end of rebirths, who, with Insight Knowledge, has become as arahat and has accomplished all that is to be accomplished for the eradication of moral defilements.'
+    423: 'Him I call a holy man, who knows past existences, who sees the celestial as well as the lower worlds, who has reached the end of rebirths, who, with Insight Knowledge, has become as arahant and has accomplished all that is to be accomplished for the eradication of moral defilements.'
 
 };
