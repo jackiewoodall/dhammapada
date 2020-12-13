@@ -355,7 +355,7 @@ dammapada_verses = {
 
     152: 'This man of little learning grows old like an ox; only his flesh grows but not his wisdom.',
 
-    153: 'I, who have been seeking the builder of this house (body), failing to attain Enlightenment which would enable me to find him, have wandered through innumerable births in samsara, To be born again and again is, indeed, dukkha!',
+    153: 'I, who have been seeking the builder of this house (body), failing to attain Enlightenment which would enable me to find him, have wandered through innumerable births in samsara. To be born again and again is, indeed, dukkha!',
 
     154: 'Oh housebuilder! You are seen, you shall build no house for me again. All your rafters are broken, your roof-tree is destroyed, My mind has reached the Unconditioned; the end of craving has been attained.',
 
